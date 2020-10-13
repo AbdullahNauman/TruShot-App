@@ -2,6 +2,8 @@
 # TruShot
 
 Team Members: Christopher Moore, Rohan Nagavardhan, Abdullah Nauman, Elyas Masour
+
+
 Many have tried to create algorithms to detect the presence of deepfakes with varying degrees of success. Personally, our team believes that this method of attack is futile. Deepfakes are created with GAN's, which simply get better over time with more training data. Soon enough, deepfakes will be completely indistinguishable from real images. What to do then?
 
 Our solution attacks this problem before a deepfake can even get involved. Here's what it does:
